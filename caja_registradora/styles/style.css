@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    position: relative;
+}
+#salida{
+    border: solid 2px black;
+    height: 10%;
+    width: 70%;
+    padding: auto;
+}
+#total_pagar{
+    height: 10%;
+}

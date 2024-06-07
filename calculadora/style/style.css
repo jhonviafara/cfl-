@@ -1,0 +1,24 @@
+#calculadora{
+    margin: 10% 0%  0% 40%;
+    border: 2px #000000 solid;
+    height: fit-content;
+    width: fit-content;
+}
+.btnRow{
+    display: block;
+    border: 1px #000000 solid;
+    height: 42px;
+    width: fit-content;
+    align-content: center;
+}
+button[class*="btn"]{
+    height: 38px;
+    width: 40px;
+}
+.resul{
+    height: 38px;
+    width: 40px;
+}
+#visor{
+height: 20px;
+}
